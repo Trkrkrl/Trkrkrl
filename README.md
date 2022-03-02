@@ -8,7 +8,7 @@ My name is Türker. I am a Civil Engineer , Entrepreneur and Lifetime Learner.
 - I hope my codes and repos will enlighten your way
 - Feel free to contact me on  [Linkedin](www.linkedin.com/in/turkerkaraoglu553).
 
-[](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Profile+Views)
 <!--
 **Trkrkrl/Trkrkrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
