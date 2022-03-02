@@ -1,6 +1,6 @@
 
-Hey, nice to see you on my Github profile
-![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Profile+Views)
+Hey, nice to see you on my Github profile.
+
 My name is Türker. I am a Civil Engineer , Entrepreneur and Lifetime Learner.
 - I’m currently learning C# , SQL , .NET , Angular
 - You can reach and explore projects i am working on.
@@ -8,7 +8,9 @@ My name is Türker. I am a Civil Engineer , Entrepreneur and Lifetime Learner.
 - I hope my codes and repos will enlighten your way
 - Feel free to contact me on  [Linkedin](www.linkedin.com/in/turkerkaraoglu553).
 
-
+<br></br>
+![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Profile+Views)
+<br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trkrkrl)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Trkrkrl" />
