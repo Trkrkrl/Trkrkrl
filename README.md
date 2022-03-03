@@ -9,7 +9,7 @@ My name is Türker. I am a Civil Engineer , Entrepreneur and Lifetime Learner.
 - Feel free to contact me on  [Linkedin](www.linkedin.com/in/turkerkaraoglu553).
 
 <br></br>
-![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Visits)
 <br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trkrkrl)
 
