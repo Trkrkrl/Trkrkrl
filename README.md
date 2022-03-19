@@ -10,11 +10,12 @@ My name is Türker. I am a Civil Engineer , Entrepreneur and Lifetime Learner.
 
 
 <br></br>
+![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Visits)
+<br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trkrkrl)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Trkrkrl" />
-<br></br>
-![](https://komarev.com/ghpvc/?username=Trkrkrl&style=flat&label=Visits)
+
 
 	
 <!--
