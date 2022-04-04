@@ -2,7 +2,7 @@
 Hey, nice to see you on my Github profile.
 
 My name is Türker. I am a Civil Engineer , Entrepreneur and Lifetime Learner.
-- I’m currently learning C# , SQL , .NET , Angular
+- I’m currently learning C# , SQL , .NET , Angular and also working on JS API's as a hobby.
 - You can reach and explore projects i am working on.
 - I explained everything in my code as best I could so that when we look later, we can understand what, why and how I did it.
 - I hope my codes and repos will enlighten your way
