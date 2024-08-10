@@ -1,7 +1,7 @@
 
 Hey, nice to see you on my Github profile.
 
-My name is Türker. I am a Civil Engineer , Entrepreneur , .Net Developer and Lifetime Learner.
+My name is Türker. I am a Civil Engineering graduate self taught Developer , Entrepreneur .
 - I’m currently learning C# , SQL , .NET , Angular and also working on JS API's as a hobby.
 - You can reach and explore projects i am working on.
 - I explained everything in my code as best I could so that when we look later, we can understand what, why and how I did it.
